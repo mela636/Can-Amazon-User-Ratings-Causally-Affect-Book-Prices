@@ -7,3 +7,6 @@ User ratings showed no statistically significant effect on book price (p = 0.94)
 Number of reviews also had no meaningful predictive power on pricing
 Genre was the strongest driver of price & nonfiction books cost about $2.54 more than fiction on average
 Results suggest bestseller pricing is shaped more by publisher conventions and Amazon's standardized pricing norms than by consumer ratings
+
+# Analysis Page
+(https://mela636.github.io/Can-Amazon-User-Ratings-Causally-Affect-Book-Prices/)
